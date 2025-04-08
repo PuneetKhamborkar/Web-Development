@@ -1,15 +1,68 @@
-= Trail
+= AsciiDoc Syntax Trail
 
-Name: Puneet Khamborkar
-Organization: Nitor Infotech Pvt Ltd.
+Paragraph is important. A paragraph is required.
 
-== Heading 1
+A line is needed.
 
-This is a trial document.
-
-For AsciiDoc Leanring Purpose.
+A literal paragraph
 
 
-=== Subheading 1
+One or more consecutive lines
 
-The paragraphs go in without any symbols or syntax
+Roses are red, +
+violets are blue.
+
+[%hardbreaks]
+A ruby is red.
+Java is black.
+
+[.lead]
+This is what needs to be done.
+
+It is *strong*
+
+This is _not strong_
+
+What about this '*_one_*'
+
+**C**reate, **D**elete
+
+fan__freakin__tastic
+
+Beatle**__mania__**
+
+Mark my words #automation is essential#
+
+##Mark##up my words ##automation is essential##
+
+Where are all the [.underline]#problems#
+
+A [.myrole]#custom role# must be fulfilled by the theme.
+
+^super^script
+
+~super~script
+
+"double curved quotes"
+
+'single curved quotes'
+
+A ``std::vector```'s size is the number of item it contains.
+
+All of the [.line-through]#childrens`'# "Puneet"
+123 `'00s.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
