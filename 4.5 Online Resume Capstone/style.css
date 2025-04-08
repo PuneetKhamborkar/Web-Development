@@ -1,0 +1,47 @@
+html {
+    background-color: #674636;
+    font-family: Calibri, sans-serif;
+}
+
+h1 {
+    color: #FFF8E8;
+    font-weight: 900;
+    font-size: 35px;
+}
+
+img {
+    width: 20%;
+    border: 5px solid #AAB396;
+}
+
+h2 {
+    color: #FFF8E8;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+h3 {
+    color: #FFF8E8;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+h4 {
+    color: #FFF8E8;
+    font-weight: 900;
+    font-size: 15px;
+}
+p 
+
+{
+    color: #AAB396;
+    font-weight: 450;
+    font-size: 15px;
+}
+
+li
+{
+    color: #AAB396;
+    font-weight: 450;
+    font-size: 15px;
+}
