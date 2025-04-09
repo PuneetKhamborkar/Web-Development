@@ -6,6 +6,20 @@ Puneet Khamborkar <khamborkarpunit@gmail.com>
 
 Paragraph is important. A paragraph is required.
 
+== Ref Doc
+
+include::trial2.adoc[trail2]
+
+
+include::../Boilerplate.html[boilerplate]
+
+
+include::../ex1.html[lines=4..10]
+
+
+include::https://github.com/PuneetKhamborkar/Web-Development/blob/master/README.md[readme]
+
+
 A line is needed.
 
 A literal paragraph
@@ -88,6 +102,62 @@ link:antora-playbook.yml[antora]
 link:../Boilerplate.html[Timepass]
 
 refer to xref:trial2.adoc#file-masti-2[link section] on this document
+
+=== Lists
+
+* Apple
+** Orange
+*** Lemon
+* Grapes
+
+This is stupid.
+
+* [x] Alpha
+* [ ] Beta
+* [*] Gamma
+* [ ] Delta
+* normal list
+
+Descriptions
+
+first term:: this is first stupidity
+
+second term:: this is second stupidity
+
+Q&A
+
+[qanda]
+what is the question?::
+is this the answer.
+
+
+os::
+aa:::
+. bb
+* cc
+. dd
+* ee
+* ff
+gg:::
+* [x] hh
+* [ ] ii
+
+Stupidity at its peak.
+
+. my is psk
++
+I am learning asciidoc.
++
+list continuation:: a plus sign
+* code block is here
+```
+This is a code to install vale.
+git --version
+install choco vale
+```
+
+* a table is `here`
+
 
 
 
