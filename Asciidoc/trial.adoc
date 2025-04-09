@@ -157,6 +157,40 @@ install choco vale
 ```
 
 * a table is `here`
+|===
+|heading 1| heading 2
+|r1c1|r1c2
+|r2c1|r2c2
+|===
+
+image::PP.JPG[my pic, 100, 100]
+
+
+
+
+video::youtube:ZB4d9BjhtvQ[Youtube Video]
+
+
+select menu:File[save]
+
+press the btn:[ok] 
+
+then press btn:[open]
+
+.Gemfile.lock
+
+[source,ruby]
+----
+gem
+remote: 1234
+specs:
+    asciioctor
+
+pf
+RUBY
+----
+
+
 
 
 
