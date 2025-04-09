@@ -1,4 +1,8 @@
 = AsciiDoc Syntax Trail
+Puneet Khamborkar <khamborkarpunit@gmail.com>
+:version-label: Version 1.0
+:homepage: https://github.com/PuneetKhamborkar/Web-Development
+:toc:
 
 Paragraph is important. A paragraph is required.
 
@@ -59,8 +63,10 @@ s
 anchor:bookmark-d[]^Khamborkar^Puneet~Suresh~
 
 === Links
+Hi lover
 
-Hi
+[discrete]
+==== I an a heading!
 
 
 
@@ -81,6 +87,7 @@ link:antora-playbook.yml[antora]
 
 link:../Boilerplate.html[Timepass]
 
+refer to xref:trial2.adoc#file-masti-2[link section] on this document
 
 
 
