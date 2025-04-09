@@ -5,12 +5,13 @@ Paragraph is important. A paragraph is required.
 A line is needed.
 
 A literal paragraph
+git status
 
 
 One or more consecutive lines
 
 Roses are red, +
-violets are blue.
+[[bookmark-e, last paragraph]]violets are blue.
 
 [%hardbreaks]
 A ruby is red.
@@ -47,16 +48,38 @@ A [.myrole]#custom role# must be fulfilled by the theme.
 
 'single curved quotes'
 
-A ``std::vector```'s size is the number of item it contains.
+[[bookmark-b]]A ``std::vector```'s size is the number of item it contains.
 
 All of the [.line-through]#childrens`'# "Puneet"
 123 `'00s.
-
+s
 [.underline]###my name is not Puneet###
 
 
-^Khamborkar^Puneet~Suresh~
+anchor:bookmark-d[]^Khamborkar^Puneet~Suresh~
 
+=== Links
+
+Hi
+
+
+
+https://google.com[google] - automatic!
+
+
+[#bookmark-c]#khamborkarpunit@gmail.com#
+
+mailto:khamborkarpunit@gmail.com[connect with me]
+
+https://www.google.com[Visit Google, role=external, window=_blank]
+
+https://www.google.com[Visit Google^]
+
+link:++https://www.google.com/search?q=vale&sca_esv=7c7b298578be5db7++[URL with characters]
+
+link:antora-playbook.yml[antora]
+
+link:../Boilerplate.html[Timepass]
 
 
 
