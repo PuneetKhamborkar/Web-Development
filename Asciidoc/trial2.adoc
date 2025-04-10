@@ -1,7 +1,14 @@
-= Masti
+= TRIAL NEED
+:url-home: https://cluelesstechnicalwriter.com
+:link-doc: https://cluelesstechnicalwriter.com[ctw]
+:summary: Clueless Technical Writer is an online portal for new technical writers to come and learn about latest technical writing trends.
+:checkedbox: pass:normal[{startsb}&#10003;{endsb}]
 
-THis is a masti file
+Please visit {url-home}[Clueless Technical Writer]
 
-== file masti 2
-this is file masti 2.
+{summary}
+
+go to {link-doc}!
+
+{checkedbox} Bye
 
