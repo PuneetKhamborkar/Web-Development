@@ -202,6 +202,8 @@ $
 JAVA
 ----
 
+<<<
+
 .Sheela Ki Jawani
 ****
 My favorite song is not sheela ki jawani
@@ -249,5 +251,115 @@ ahaahaha
 <version>{release-version}</version>
 </dependency>
 ----
+.Table Title
+|===
+|cl1, head1|cl2, head2
+|c1r1
+|c2r1
+|c1r2
+|c2r2
+|===
 
+[%heading,cols=2*]
+|===
+|Name of Column 1
+|Name of Column 2
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|===
+
+.Applications
+[cols="1,1,2"]
+|===
+|Name|Company|Description
+|Firefox|Browser|ABC
+
+|Arquillian|Testing|XYZ
+|===
+
+[cols="2,2,5a"]
+|===
+|Firefox
+|Browser
+|ABC
+
+It is design for:
+* sd comp
+* perf
+* port
+
+https://cluelesstechnicalwriter.com
+|===
+
+
+
+,===
+Artist, Track, Genre
+Baauer, Harlem, Hip hop
+,===
+
+[%header,format=csv]
+|===
+Artist, Track, Genre
+Baauer, Harlem, Hip hop
+|===
+
+:===
+Artist:Track:Genre
+
+Robyn:Indestructible:Dance
+:===
+
+
+[#goals.incremental]
+* g1
+* g2
+
+[id="goals",role="incremtental"]
+- g1
+- g2
+
+[#null-values]
+== abc
+
+[#id-name.rolename]`monospace`
+
+[#free-world.goals]*free*
+
+[%header%footer%autowidth]
+|===
+|HA|HB
+|FA|FB
+|===
+
+[options:"header,footer,autowidth"]
+|===
+|HA|HB
+|FA|FB
+|===
+
+//options can be shortened
+[opts="header,footer,autowidth"]
+|===
+|HA|HB
+|FA|FB
+|===
+
+// this is so stupid
+
+////
+this is really amamzing
+I hope everythign gets better
+////
+
+
+before 
+
+'''
+
+after
 
