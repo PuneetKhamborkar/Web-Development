@@ -191,11 +191,63 @@ RUBY
 ----
 
 
+[source,java]
+----
+JAVA
 
+A
+B
+C
+$
+JAVA
+----
 
+.Sheela Ki Jawani
+****
+My favorite song is not sheela ki jawani
+****
 
+====
+Here is a sample block
+----
+= Title
+Doc writer
+:toc:
+----
+====
 
+[quote, Puneet Khamborkar, Tonight at Midnight]
 
+I am the greatest.
 
+"I am the greatest." -- Puneet Khamborkar
+
+[source]
+--
+AN OPEN BLOCK,
+
+An open container
+--
+
+++++
+<p>.
+Hasahahaha
+ajhahahaa
+
+ahaahaha
+</p>
+
+<script src="https://www.cluelesstechnicalwriter.com">
+</script>
+++++
+
+[source,xml,subs=attributes]
+----
+<dependency>
+<groupid>org.asciidoctor</groupid>
+<artifactid>asciidoctorj</artifactid>
+<version>{release-version}</version>
+</dependency>
+----
 
 
