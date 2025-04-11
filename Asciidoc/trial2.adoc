@@ -31,3 +31,40 @@ PPP(TM)
 <=
 
 sams' world
+
+In /items/\{id}, the id attribute.
+
+\*stars* 
+
+\&sect;
+
+\[[word]]
+
+[\[[word]]]
+
+\((dd and cc)) OR ((dd and ee))
+
+\https://cluelesstechnicalwriter.com
+
++/user/{id}+
++>+
+
+dev++{conf}++
+
++<+
+
+all-natural++*++
+
++++<u>underline me</u>+++
+
+pass:[<u>underline me</u>]
+
+pragmatic program <<pp>> should read the file "`Gang of Four`" <<gof>>.
+
+[bibliography]
+=== References
+
+* [[[pp]]] PSK
+* [[[gof,gang]]] psk psk psk
+
+
