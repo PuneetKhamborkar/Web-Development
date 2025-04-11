@@ -1,3 +1,4 @@
 {
-    "asciidoc.preview.asciidoctorAttributes": {}
+    "asciidoc.preview.asciidoctorAttributes": {},
+    "iis.configDir": ""
 }

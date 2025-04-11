@@ -4,6 +4,8 @@
 :summary: Clueless Technical Writer is an online portal for new technical writers to come and learn about latest technical writing trends.
 :checkedbox: pass:normal[{startsb}&#10003;{endsb}]
 
+== Aster
+
 Please visit {url-home}[Clueless Technical Writer]
 
 {summary}
@@ -59,12 +61,48 @@ all-natural++*++
 
 pass:[<u>underline me</u>]
 
+--
+
 pragmatic program <<pp>> should read the file "`Gang of Four`" <<gof>>.
 
 [bibliography]
-=== References
+== References
 
 * [[[pp]]] PSK
 * [[[gof,gang]]] psk psk psk
 
+A statement.footnote:[Clarification about this statement]
+
+A bold statement!footnote:disclaimer[Opinions are my own.]
+
+
+Another statement!footnote:disclaimer[]
+
+#### Lover
+
+```
+ruby
+
+```
+> love is a drug. Everyone will get addicted to it, no matter what you do.
+> -- Love drug climbdown
+
+
+
+> Hi
+>
+> > Beware
+>
+>
+> * Heading
+> * Blockquotes
+
+---
+
+
+- - -
+
+***
+
+* * *
 
