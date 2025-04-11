@@ -12,3 +12,22 @@ go to {link-doc}!
 
 {checkedbox} Bye
 
+(C) all rights reserved.
+
+(R) PSK
+
+PPP(TM)
+
+--
+
+...
+
+->
+
+<-
+
+=>
+
+<=
+
+sams' world
